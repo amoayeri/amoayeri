@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ali Moayeri]]></title>
-  <link href="http://amoayeri.github.com/amoayeri/atom.xml" rel="self"/>
+  <title><![CDATA[Category: blog | Ali Moayeri]]></title>
+  <link href="http://amoayeri.github.com/amoayeri/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://amoayeri.github.com/amoayeri/"/>
   <updated>2012-03-14T13:53:44-04:00</updated>
   <id>http://amoayeri.github.com/amoayeri/</id>

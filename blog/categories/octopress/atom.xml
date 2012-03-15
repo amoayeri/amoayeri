@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress, | Ali Moayeri]]></title>
-  <link href="http://amoayeri.github.com/amoayeri/blog/categories/octopress-/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | Ali Moayeri]]></title>
+  <link href="http://amoayeri.github.com/amoayeri/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://amoayeri.github.com/amoayeri/"/>
-  <updated>2012-03-14T19:53:02-04:00</updated>
+  <updated>2012-03-14T20:21:41-04:00</updated>
   <id>http://amoayeri.github.com/amoayeri/</id>
   <author>
     <name><![CDATA[Ali Moayeri]]></name>
